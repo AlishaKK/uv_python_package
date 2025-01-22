@@ -1,5 +1,9 @@
 # uv_python_package
 
+![gg](https://github.com/user-attachments/assets/830f35ee-9155-44cd-8051-321b3705ef6a)
+
+
+
 UV offers a modern alternative to PIP and virtualenv by combining environment management and package installation into a single, faster tool. With its Rust-based implementation, UV significantly outperforms PIP in speed and memory usage while maintaining compatibility with the Python ecosystem. Its advantages include:
 
 - **Performance:** 10–100x faster than PIP with parallel downloads and an optimized dependency resolver.
